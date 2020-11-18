@@ -1,1 +1,4 @@
-# ML_Stockpred
+# Resources
+Dataset : from Yahoo finance historical data 
+
+
